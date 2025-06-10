@@ -120,7 +120,7 @@
     "@storybook/addon-themes": "workspace:*",
     "@storybook/addon-toolbars": "workspace:*",
     "@storybook/addon-viewport": "workspace:*",
-    "@storybook/angular": "workspace:*",
+    "@storybook/angular": "3.3.0",
     "@storybook/bench": "next",
     "@storybook/blocks": "workspace:*",
     "@storybook/builder-vite": "workspace:*",
