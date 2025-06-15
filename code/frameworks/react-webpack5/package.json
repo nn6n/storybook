@@ -54,8 +54,8 @@
   },
   "dependencies": {
     "@storybook/builder-webpack5": "workspace:*",
-    "@storybook/preset-react-webpack": "workspace:*",
-    "@storybook/react": "workspace:*"
+    "@storybook/preset-react-webpack": "7.0.0",
+    "@storybook/react": "7.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.0.0"
