@@ -54,8 +54,8 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/builder-vite": "workspace:*",
-    "@storybook/svelte": "workspace:*",
+    "@storybook/builder-vite": "0.1.22",
+    "@storybook/svelte": "4.0.0",
     "magic-string": "^0.30.0",
     "svelte-preprocess": "^5.1.1",
     "svelte2tsx": "^0.7.35",
