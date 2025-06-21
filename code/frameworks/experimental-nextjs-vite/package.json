@@ -104,11 +104,11 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/builder-vite": "workspace:*",
+    "@storybook/builder-vite": "0.1.22",
     "@storybook/react": "workspace:*",
-    "@storybook/react-vite": "workspace:*",
+    "@storybook/react-vite": "8.5.4",
     "styled-jsx": "5.1.6",
-    "vite-plugin-storybook-nextjs": "2.0.0--canary.33.a61ad85.0"
+    "vite-plugin-storybook-nextjs": "2.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
