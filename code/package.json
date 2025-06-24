@@ -135,7 +135,7 @@
     "@storybook/html-vite": "workspace:*",
     "@storybook/html-webpack5": "workspace:*",
     "@storybook/linter-config": "^4.0.0",
-    "@storybook/nextjs": "workspace:*",
+    "@storybook/nextjs": "7.0.0",
     "@storybook/preact": "workspace:*",
     "@storybook/preact-vite": "workspace:*",
     "@storybook/preact-webpack5": "workspace:*",
