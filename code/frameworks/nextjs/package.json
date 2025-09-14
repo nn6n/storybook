@@ -143,7 +143,7 @@
     "@babel/preset-typescript": "^7.24.1",
     "@babel/runtime": "^7.24.4",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.11",
-    "@storybook/builder-webpack5": "workspace:*",
+    "@storybook/builder-webpack5": "6.2.0",
     "@storybook/preset-react-webpack": "workspace:*",
     "@storybook/react": "workspace:*",
     "@types/semver": "^7.3.4",
