@@ -54,7 +54,7 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/builder-webpack5": "workspace:*",
+    "@storybook/builder-webpack5": "6.2.0",
     "@storybook/preset-react-webpack": "workspace:*",
     "@storybook/react": "workspace:*"
   },
