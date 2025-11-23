@@ -54,7 +54,7 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/builder-vite": "workspace:*",
+    "@storybook/builder-vite": "7.1.0",
     "@storybook/preact": "workspace:*"
   },
   "devDependencies": {
