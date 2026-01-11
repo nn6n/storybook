@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@storybook/builder-vite": "workspace:*",
-    "@storybook/preact": "workspace:*"
+    "@storybook/preact": "5.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
