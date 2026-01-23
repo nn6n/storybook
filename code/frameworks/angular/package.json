@@ -88,7 +88,7 @@
     "prep": "jiti ../../../scripts/prepare/addon-bundle.ts"
   },
   "dependencies": {
-    "@storybook/builder-webpack5": "workspace:*",
+    "@storybook/builder-webpack5": "7.1.0",
     "@storybook/global": "^5.0.0",
     "telejson": "8.0.0",
     "ts-dedent": "^2.0.0",
