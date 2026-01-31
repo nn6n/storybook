@@ -61,7 +61,7 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "@actions/core": "^1.11.1",
+    "@actions/core": "^2.0.0",
     "@fal-works/esbuild-plugin-global-externals": "^2.1.2",
     "@google-cloud/bigquery": "^6.2.1",
     "@octokit/graphql": "^5.0.6",
@@ -108,7 +108,7 @@
     "ejs-lint": "^2.0.1",
     "es-toolkit": "^1.36.0",
     "esbuild": "^0.25.3",
-    "eslint": "^8.57.0",
+    "eslint": "^9.26.0",
     "eslint-config-airbnb-typescript": "^18.0.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-compat": "^6.0.2",
@@ -140,7 +140,7 @@
     "lint-staged": "^15.5.1",
     "memoizerific": "^1.11.3",
     "minimatch": "^10.0.1",
-    "node-gyp": "^9.3.1",
+    "node-gyp": "^11.0.0",
     "ora": "^5.4.1",
     "p-limit": "^3.1.0",
     "p-retry": "^5.1.2",
