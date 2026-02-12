@@ -63,7 +63,7 @@
     "prep": "jiti ../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core-webpack": "workspace:*",
+    "@storybook/core-webpack": "7.0.0",
     "case-sensitive-paths-webpack-plugin": "^2.4.0",
     "cjs-module-lexer": "^1.2.3",
     "css-loader": "^6.7.1",
@@ -74,7 +74,7 @@
     "style-loader": "^3.3.1",
     "terser-webpack-plugin": "^5.3.1",
     "ts-dedent": "^2.0.0",
-    "webpack": "5",
+    "webpack": "5.104.1",
     "webpack-dev-middleware": "^6.1.2",
     "webpack-hot-middleware": "^2.25.1",
     "webpack-virtual-modules": "^0.6.0"
