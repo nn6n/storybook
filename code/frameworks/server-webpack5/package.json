@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@storybook/builder-webpack5": "workspace:*",
-    "@storybook/preset-server-webpack": "workspace:*",
+    "@storybook/preset-server-webpack": "7.0.0",
     "@storybook/server": "workspace:*"
   },
   "devDependencies": {
