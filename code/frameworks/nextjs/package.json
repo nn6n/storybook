@@ -144,7 +144,7 @@
     "@babel/runtime": "^7.24.4",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.11",
     "@storybook/builder-webpack5": "workspace:*",
-    "@storybook/preset-react-webpack": "workspace:*",
+    "@storybook/preset-react-webpack": "7.0.0",
     "@storybook/react": "workspace:*",
     "@types/semver": "^7.3.4",
     "babel-loader": "^9.1.3",
